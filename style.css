@@ -91,7 +91,7 @@ summary::-webkit-details-marker {
     text-align: left;
     color: #05203E;
     position: absolute;
-    top: -55px;
+    top: -145px;
 }
 
 .top__subscribe{
@@ -108,11 +108,13 @@ summary::-webkit-details-marker {
     font-size: 20px;
     font-weight: 600;
     line-height: 26.8px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: #FFFFFF;
     position: absolute;
-    left: 75%;
-    bottom: 55%;
+    left: 79%;
+    bottom: 107%;
 }
 
 .for-info{
